@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
         final ListView listview = (ListView) findViewById(R.id.listview);
         listview.setAdapter(adapter);
 
+
+
         //INTERACTUANDO
         listview.setOnItemClickListener(new nuestroListener());
     }
