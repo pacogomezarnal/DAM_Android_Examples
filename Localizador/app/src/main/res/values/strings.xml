@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Localizador</string>
+    <string name="title_activity_mi_mapa">Map</string>
 </resources>
